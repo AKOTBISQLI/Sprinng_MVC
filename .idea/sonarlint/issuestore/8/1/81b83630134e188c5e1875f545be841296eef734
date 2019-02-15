@@ -1,0 +1,5 @@
+
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ˆ’„á-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê‡şşÿÿÿÿ8Æ©ó´-
+wsquid:UselessImportCheck"GRemove this unused import 'com.spring.practice.service.ProductService'.(ş¶§şÿÿÿÿ8ˆ’„á-
